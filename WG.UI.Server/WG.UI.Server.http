@@ -1,0 +1,6 @@
+@WG.UI.Server_HostAddress = http://localhost:5262
+
+GET {{WG.UI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
